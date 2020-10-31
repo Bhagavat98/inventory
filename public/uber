@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<script src="https://www.google.com/recaptcha/api.js"></script>
+<script>
+ function timestamp() { var response = document.getElementById("g-recaptcha-response"); if (response == null || response.value.trim() == "") {var elems = JSON.parse(document.getElementsByName("captcha_settings")[0].value);elems["ts"] = JSON.stringify(new Date().getTime());document.getElementsByName("captcha_settings")[0].value = JSON.stringify(elems); } } setInterval(timestamp, 500); 
+</script>
+	<title>uber-logo.fw - IPfolio</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://www.ipfolio.com/xmlrpc.php">
+	
+	<!-- WP Head scripts and meta tags -->
+	<link rel="alternate" hreflang="en-us" href="https://www.ipfolio.com/testimonial/uber/uber-logo-fw/" />
+<link rel="alternate" hreflang="de-de" href="https://www.ipfolio.com/de/uber-logo-fw-2/" />
+
+<!-- This site is optimized with the Yoast SEO plugin v8.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://www.ipfolio.com/testimonial/uber/uber-logo-fw/" />
+<link rel="publisher" href="https://plus.google.com/100572490774437341828"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="uber-logo.fw - IPfolio" />
+<meta property="og:url" content="https://www.ipfolio.com/testimonial/uber/uber-logo-fw/" />
+<meta property="og:site_name" content="IPfolio" />
+<meta property="article:publisher" content="https://www.facebook.com/IPfolio" />
+<meta property="og:image" content="https://www.ipfolio.com/wp-content/uploads/2018/08/uber-logo.fw_.png" />
+<meta property="og:image:secure_url" content="https://www.ipfolio.com/wp-content/uploads/2018/08/uber-logo.fw_.png" />
+<meta property="og:image:width" content="500" />
+<meta property="og:image:height" content="364" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="uber-logo.fw - IPfolio" />
+<meta name="twitter:site" content="@IPfolio" />
+<meta name="twitter:image" content="https://www.ipfolio.com/wp-content/uploads/2018/08/uber-logo.fw_.png" />
+<meta name="twitter:creator" content="@IPfolio" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//use.typekit.net' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="IPfolio &raquo; Feed" href="https://www.ipfolio.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="IPfolio &raquo; Comments Feed" href="https://www.ipfolio.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.ipfolio.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.ipfolio.com/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='duplicate-page-and-post-css'  href='https://www.ipfolio.com/wp-content/plugins/duplicate-page-and-post/admin/css/duplicate-page-and-post-admin.min.css?ver=2.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpml-legacy-dropdown-0-css'  href='//www.ipfolio.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-dropdown/style.css?ver=1' type='text/css' media='all' />
+<style id='wpml-legacy-dropdown-0-inline-css' type='text/css'>
+.wpml-ls-statics-shortcode_actions{background-color:#eeeeee;}.wpml-ls-statics-shortcode_actions, .wpml-ls-statics-shortcode_actions .wpml-ls-sub-menu, .wpml-ls-statics-shortcode_actions a {border-color:#cdcdcd;}.wpml-ls-statics-shortcode_actions a {color:#444444;background-color:#ffffff;}.wpml-ls-statics-shortcode_actions a:hover,.wpml-ls-statics-shortcode_actions a:focus {color:#000000;background-color:#eeeeee;}.wpml-ls-statics-shortcode_actions .wpml-ls-current-language>a {color:#444444;background-color:#ffffff;}.wpml-ls-statics-shortcode_actions .wpml-ls-current-language:hover>a, .wpml-ls-statics-shortcode_actions .wpml-ls-current-language>a:focus {color:#000000;background-color:#eeeeee;}
+</style>
+<link rel='stylesheet' id='wpml-menu-item-0-css'  href='//www.ipfolio.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpml-cms-nav-css-css'  href='https://www.ipfolio.com/wp-content/plugins/wpml-cms-nav/res/css/navigation.css?ver=1.4.23' type='text/css' media='all' />
+<link rel='stylesheet' id='cms-navigation-style-base-css'  href='https://www.ipfolio.com/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.4.23' type='text/css' media='screen' />
+<link rel='stylesheet' id='cms-navigation-style-css'  href='https://www.ipfolio.com/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.4.23' type='text/css' media='screen' />
+<link rel='stylesheet' id='flourish-ui-css'  href='https://www.ipfolio.com/wp-content/themes/ipfolio/assets/vendor/flourishui/css/flourishui.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='flourish-theme-css'  href='https://www.ipfolio.com/wp-content/themes/ipfolio/assets/css/theme.css?ver=1.18.9.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='typekit-font-css'  href='//use.typekit.net/dfg7mcd.css?ver=5.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.ipfolio.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.ipfolio.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='//www.ipfolio.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-dropdown/script.js?ver=1'></script>
+<script type='text/javascript' src='https://www.ipfolio.com/wp-content/themes/ipfolio/assets/vendor/flourishui/js/flourishui.min.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://www.ipfolio.com/wp-content/themes/ipfolio/assets/js/vendor/smoothscroll.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://www.ipfolio.com/wp-content/themes/ipfolio/assets/js/vendor/fitvids.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://www.ipfolio.com/wp-content/themes/ipfolio/assets/js/vendor/mansory.min.js?ver=5.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_object = {"ajax_url":"https:\/\/www.ipfolio.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ipfolio.com/wp-content/themes/ipfolio/assets/js/theme.src.js?ver=1.18.9.5.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"en_US":"https:\/\/www.ipfolio.com\/testimonial\/uber\/uber-logo-fw\/","en":"https:\/\/www.ipfolio.com\/testimonial\/uber\/uber-logo-fw\/","US":"https:\/\/www.ipfolio.com\/testimonial\/uber\/uber-logo-fw\/","de_DE":"https:\/\/www.ipfolio.com\/de\/uber-logo-fw-2\/","de":"https:\/\/www.ipfolio.com\/de\/uber-logo-fw-2\/","DE":"https:\/\/www.ipfolio.com\/de\/uber-logo-fw-2\/"},"cookie":{"name":"_icl_visitor_lang_js","domain":"www.ipfolio.com","path":"\/","expiration":24}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ipfolio.com/wp-content/plugins/sitepress-multilingual-cms/dist/js/browser-redirect/app.js?ver=4.0.7'></script>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js?ver=5.1.1'></script>
+<link rel='https://api.w.org/' href='https://www.ipfolio.com/wp-json/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.ipfolio.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ipfolio.com%2Ftestimonial%2Fuber%2Fuber-logo-fw%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.ipfolio.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ipfolio.com%2Ftestimonial%2Fuber%2Fuber-logo-fw%2F&#038;format=xml" />
+<meta name="generator" content="WPML ver:4.0.7 stt:1,3;" />
+<!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=oqm4"></script>
+
+<style>li#menu-item-wpml-ls-4-en { display: none; visibility: hidden }</style><link rel="shortcut icon" href="/wp-content/uploads/fbrfg/favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="/wp-content/uploads/fbrfg/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/wp-content/uploads/fbrfg/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/wp-content/uploads/fbrfg/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/wp-content/uploads/fbrfg/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/wp-content/uploads/fbrfg/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/wp-content/uploads/fbrfg/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/wp-content/uploads/fbrfg/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/wp-content/uploads/fbrfg/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/wp-content/uploads/fbrfg/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/wp-content/uploads/fbrfg/favicon-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/wp-content/uploads/fbrfg/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="/wp-content/uploads/fbrfg/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/wp-content/uploads/fbrfg/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/wp-content/uploads/fbrfg/favicon-32x32.png" sizes="32x32">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/wp-content/uploads/fbrfg/mstile-144x144.png">
+<meta name="msapplication-config" content="/wp-content/uploads/fbrfg/browserconfig.xml"><!-- Custom CSS -->
+<style>
+/* clearfix */
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+ 
+.clearfix {
+    display: inline-block;
+}
+ 
+html[xmlns] .clearfix {
+    display: block;
+}
+ 
+* html .clearfix {
+    height: 1%;
+}
+/* Misc. Styles */
+
+.simple-banner a { text-decoration:underline }
+.simple-banner a:hover { text-decoration:none }
+
+label#label-email-c6e80881-d623-4587-926a-6107bba42608 { float:left; padding:5px 10px 0 0;}
+input#email-c6e80881-d623-4587-926a-6107bba42608 { width:300px;margin-bottom:10px }
+
+.totalleft { margin-top:-20px }
+.submenu-languages { min-width:0px!important }
+.ipportfoliomatrix { cursor: default!important; }
+.learn-more-matrix { margin-top:20px }
+.leadership-single { margin-top:40px!important }
+.row.leadership-single:first-child { margin-top: 0px!important; }
+.cloud img { margin-bottom:40px }
+.entry-comments { display:none; visibility:hidden }
+.blue-gradient p { color: #FFF!important; }
+.green-gradient img { max-width: 153px!important; }
+form#contact textarea { height:150px }
+form#contact input[type='checkbox'] { margin: 0 20px 0 0 }
+.page-template-page-testimonials-php #footer { margin-top:0!important }
+.page-template-page-contact-php .submenu-area { display:none; visibility:hidden }
+.widget h2.linked a { float: none; }
+.widget h2.linked { border-bottom:none; border-top: 1px solid #ebebeb; padding-top:15px }
+.widget .fa-file-pdf-o { float: left; font-size: 45px; margin: 1px 10px 0 0; color:#7c7c7c }
+.page-template-page-nosidebar-php .page-content .column.md-4 { text-align: center; }
+.page-template-page-nosidebar-php .page-content .column.md-4 img { margin-bottom: 60px; }
+#contact label span { color:#f46a3e  }
+#head .head-container { padding:0 }
+.head-title img { max-width: 80%; margin-top: 15px }
+#head .head-menu .menu li a { font-size: 14px }
+.job-title {font-size: 18px}
+#main article.archive-list .entry-header .entry-title { margin-bottom:20px }
+.submenu-area.fixed { top: 95px }
+.page-template-page-inventors-php .blue-gradient img { margin-top:0px }
+.blue-gradient img { margin-top:20px!important }
+form#contact { padding-left: 15px; }
+.page-template-page-contact-php .title-area .md-4 img { display:none; visibility:hidden }
+#main .blue-gradient { text-align:center }
+.blue-gradient { text-align:left }
+.submenu-area.fixed, #head.fixed { z-index: 999; }
+.page-template-page-inventors-php .blue-gradient img { margin-top: -20px!important; margin-bottom: -20px; }
+.page-template-page-inventors-php #content, .page-template-page-portfolio-php #content, .page-template-page-dashboards-php #content, .page-template-page-customization-php #content { padding-top: 0px }
+.home .notebook .top-container h2 { margin-top:-10px }
+.top-fade { -webkit-mask-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,1)); }
+.right-fade { -webkit-mask-image: -webkit-linear-gradient(right, rgba(0,0,0,0), rgba(0,0,0,1)); }
+.bottom-fade { -webkit-mask-image: -webkit-linear-gradient(bottom, rgba(0,0,0,0), rgba(0,0,0,1)); }
+.left-fade { -webkit-mask-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,1)); }
+.companies img { width:auto!important; max-width:none!important; height:50px!important; max-height:50px!important }
+body.fixed { padding-top:0px }
+
+button.g-recaptcha {
+    width: 150px;
+    height: 50px;
+    line-height: 50px;
+    text-transform: uppercase;
+    border: 0;
+    border-radius: 0;
+    color: #fff;
+    background: #f46a3e;
+    font-size: 14px;
+    font-weight: 700;
+    text-align: center;
+    margin: 20px 0;
+    clear: both;
+}
+/* RWD */
+@media only screen and (min-width:1200px){
+.home .notebook .top-container p { margin-left: 294px; }
+}
+
+@media only screen and (max-width:1199px) {
+.home .notebook .top-container p { margin-left: 185px; }
+}
+
+@media only screen and (max-width:979px) and (min-width:770px) {
+.home .notebook .top-container p { margin-left: 95px; }
+}
+
+@media only screen and (max-width:769px) {
+.home .notebook .top-container p { margin-left: 50px; }
+  .page-id-4196 img.freetrial { display:none;visibility:hidden }
+}
+
+@media only screen and (max-width:767px) {
+.home .notebook .top-container p { margin-left: 0px; }
+}
+
+@media only screen and (min-width:422px){
+.home .notebook .top-container p { margin-top:-5px }
+}
+@media only screen and (max-width:421px){
+.home .notebook .top-container p { margin-top: 330px; font-size: 12px; margin-bottom: 25px; }
+}
+/* @kim@brighteyeweb.com - 11/3/14 */
+/* changed padding to align logo container closer to left edge, while preserving logo size. This also seemed to have some general alignment benefits */
+.container div[class^="column"] {
+    padding: 0 30px 0 0;
+}
+/* change font size only, it needs to be a little bigger */
+.home .notebook .top-container h2 {
+    font-size: 36px;
+}
+/* reduce space between menu items, to more distinctly group left and right menus */
+/* only changed margin and padding values */
+#head .head-menu .menu li {
+	margin: 0;
+	padding: 10px;
+}
+/* pull background image up further on the page to avoid seeing the top of the image edges, and reduce space at the top which isn't needed */
+/* only changed background position and top padding */
+.home .notebook {
+    background: url("../img/home-notebook.png") no-repeat scroll center -80px rgba(0, 0, 0, 0);
+    padding-top: 50px;
+}
+/* this text could be a little bigger, changed font size and line height */
+.home .notebook .white-area .column p {
+	font-size: 21px;
+	line-height: 30px;
+}
+/* http://www.ipfolio.com/resources/ipforward-2017-2/ */
+@media only screen and (min-width:769px){
+  .ipf-banner-desktop { display:block; visibility: visible }
+  .ipf-banner-mobile { display:none; visibility:hidden }
+}
+
+@media only screen and (max-width:769px){
+  .ipf-banner-desktop { display:none; visibility: hidden }
+  .ipf-banner-mobile { display:block; visibility:visibile }
+}
+</style>
+<!-- Generated by https://wordpress.org/plugins/theme-junkie-custom-css/ -->
+	<!-- End of WP Head scripts and meta tags -->
+    <meta property="og:image" content="http://aac.tradatracker.net/track/conv.gif?advertiser=28b60a16b55fd531047c0c958ce14b95&amp;action=IPfolio_Lead" />
+	<link rel="stylesheet" media="all" src="https://www.ipfolio.com/wp-content/themes/ipfolio/style.css" />
+	<style>
+		img.freetrial { width:241px }
+		img.videoprompt {width: 241px;}
+	</style>
+	
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/solid.css" integrity="sha384-Rw5qeepMFvJVEZdSo1nDQD5B6wX0m7c5Z/pLNvjkB14W6Yki1hKbSEQaX9ffUbWe" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/brands.css" integrity="sha384-VGCZwiSnlHXYDojsRqeMn3IVvdzTx5JEuHgqZ3bYLCLUBV8rvihHApoA1Aso2TZA" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/fontawesome.css" integrity="sha384-GVa9GOgVQgOk+TNYXu7S/InPTfSDTtBalSgkgqQ7sCik56N9ztlkoTr2f/T44oKV" crossorigin="anonymous">
+
+	
+</head>
+
+<body class="attachment attachment-template-default single single-attachment postid-6635 attachmentid-6635 attachment-png">
+
+	<!-- Before page action -->
+		<!-- End of Before page action -->
+
+	<div id="page" class="hfeed">
+
+		<!-- Before head action -->
+				<!-- End of Before head action -->
+
+		<header id="head" class="foundation" role="banner">
+			<div class="head-container container">
+				
+				<!-- Prepend head action -->
+								<!-- End of Prepend head action -->
+				
+				<!-- Head template -->
+				
+<div class="row">
+	<div class="column md-2">
+		<div class="head-title">
+			
+			<a href="https://www.ipfolio.com/" title="IPfolio" rel="home"><img src="https://www.ipfolio.com/wp-content/themes/ipfolio/assets/img/logo.png" /></a>
+		</div> <!-- .head-title -->
+	</div> <!-- .column md-6 -->
+
+	<div class="column md-10">
+		<nav id="primary-menu" class="head-menu" role="navigation">
+			<span class="toggle"><i class="fas fa-bars"></i></span>
+			<ul id="menu-main-nav" class="menu"><li id="menu-item-72" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a href="https://www.ipfolio.com/our-product/">Product</a></li>
+<li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71"><a href="https://www.ipfolio.com/why-ipfolio/">Why Us</a></li>
+<li id="menu-item-6672" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6672"><a href="https://www.ipfolio.com/technology/">Technology</a></li>
+<li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="https://www.ipfolio.com/resources/">Resources</a></li>
+<li id="menu-item-5016" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5016"><a href="https://www.ipfolio.com/ipforward-home/">IPforward</a></li>
+<li id="menu-item-4184" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4184"><a href="http://blog.ipfolio.com/">Blog</a></li>
+<li id="menu-item-75" class="right fa fa-key menu-item menu-item-type-custom menu-item-object-custom menu-item-75"><a target="_blank" href="https://ipfolio.cloudforce.com">Log In</a></li>
+<li id="menu-item-7051" class="right fa fa-life-ring menu-item menu-item-type-post_type menu-item-object-page menu-item-7051"><a href="https://www.ipfolio.com/support/">Help</a></li>
+<li id="menu-item-4788" class="right fa fa-phone menu-item menu-item-type-post_type menu-item-object-page menu-item-4788"><a href="https://www.ipfolio.com/contact-us/">Contact</a></li>
+<li id="menu-item-wpml-ls-4-en" class="menu-item-language menu-item-language-current menu-item wpml-ls-slot-4 wpml-ls-item wpml-ls-item-en wpml-ls-current-language wpml-ls-menu-item wpml-ls-first-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-has-children menu-item-wpml-ls-4-en"><a href="https://www.ipfolio.com/testimonial/uber/uber-logo-fw/"><img class="wpml-ls-flag" src="https://www.ipfolio.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" title="English"></a></li>
+</ul>		</nav> <!-- #primary-menu .head-menu -->
+	</div> <!-- .column md-6 -->
+</div> <!-- .row -->
+<script type="text/javascript">
+jQuery(document).ready(function($){
+	$(".head-menu .toggle").click( function() {
+		if ($('.head-menu .menu').hasClass('open')) {
+			$('.head-menu .menu').slideUp(500, function() {
+				$('.head-menu .menu').removeClass('open');
+			});
+		} else {
+			$('.head-menu .menu').slideDown(500, function() {
+				$('.head-menu .menu').addClass('open');
+			});
+		}
+	});
+});
+</script>				<!-- End of Head template -->
+
+				<!-- Append head action -->
+								<!-- End of Append head action -->
+
+			</div> <!-- .head-container -->
+		</header> <!-- #head -->
+
+		
+		
+		<!-- After head action -->
+				<!-- End of After head action -->
+
+		<!-- Before content action -->
+				<!-- End of Before content action -->
+
+		<div id="content" class="foundation">
+			<div class="content-container container">
+				<!-- Prepend content action -->
+								<!-- End of Prepend content action -->
+
+				<!-- Layout before content template -->
+				
+<div class="row">
+			<div class="column md-12">
+					<!-- End of Layout before content template -->
+
+				<div id="primary">
+					<main id="main" role="main">
+<article id="post-6635" class="content-lists post-6635 attachment type-attachment status-inherit hentry">
+	<div class="row">
+		
+		<div class="column md-12">
+
+			<header class="entry-header">
+				<h2 class="entry-title">uber-logo.fw</h2>
+			</header> <!-- .entry-header -->
+
+			<div class="entry-content">
+				<p class="attachment"><a href='https://www.ipfolio.com/wp-content/uploads/2018/08/uber-logo.fw_.png'><img width="300" height="218" src="https://www.ipfolio.com/wp-content/uploads/2018/08/uber-logo.fw_-300x218.png" class="attachment-medium size-medium" alt="" srcset="https://www.ipfolio.com/wp-content/uploads/2018/08/uber-logo.fw_-300x218.png 300w, https://www.ipfolio.com/wp-content/uploads/2018/08/uber-logo.fw_.png 500w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+			</div>
+
+			<footer class="entry-footer">
+				<div class="entry-author">
+					Posted by <a href="https://www.ipfolio.com/author/studiohyperset/">IPfolio</a> | 				</div> <!-- .entry-author -->
+
+				
+				
+<div class="entry-share">
+	<a href="https://twitter.com/intent/tweet?text=uber-logo.fw - IPfolio https://www.ipfolio.com/?p=6635" class="popup tw button icon" title="share it">
+		<i class="fab fa-twitter"></i>
+	</a>
+
+	<a href="https://www.facebook.com/sharer.php?u=https://www.ipfolio.com/?p=6635&t=uber-logo.fw - IPfolio" class="popup fb button icon" title="share it">
+		<i class="fab fa-facebook"></i>
+	</a>
+
+	<a href="https://plus.google.com/share?url=https://www.ipfolio.com/?p=6635" class="popup gp button icon" title="share it">
+		<i class="fab fa-google-plus"></i>
+	</a>
+</div> <!-- .entry-share -->			</footer>
+		</div>
+	</div>
+</article> <!-- #post-6635 .content-single .post-6635 .attachment .type-attachment .status-inherit .hentry -->
+				</main> <!-- #main -->
+			</div> <!-- #primary -->
+
+			<!-- Layout after content template -->
+					</div> <!-- .column .md-8 -->
+	</div> <!-- .row -->				<!-- End of Layout after content template -->
+
+ 			<!-- Append content action -->
+						<!-- End of Append content action -->
+
+			</div> <!-- .content-container -->
+		</div> <!-- #content -->
+
+		<!-- After content action -->
+						<!-- End of After content action -->
+
+		<!-- Before footer action -->
+				<!-- End of Before footer action -->
+
+		<footer id="footer" class="foundation" role="contentinfo">
+			<div class="footer-container container">
+				
+				<!-- Prepend footer action -->
+								<!-- End of Prepend footer action -->
+
+				<!-- Footer copyright template -->
+				
+<div class="row">
+	<ul id="menu-footer-menu" class="menu"><li id="menu-item-2063" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2063"><a href="https://www.ipfolio.com/our-product/">IP Management Software</a>
+<ul class="sub-menu">
+	<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a href="https://www.ipfolio.com/our-product/ip-manager/">IP Portfolio Manager</a></li>
+	<li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="https://www.ipfolio.com/our-product/inventors-portal/">Inventors Portal</a></li>
+	<li id="menu-item-2579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2579"><a href="https://www.ipfolio.com/our-product/reports-dashboards/">Reports &#038; Dashboards</a></li>
+	<li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49"><a href="https://www.ipfolio.com/our-product/total-control/">Total Control</a></li>
+	<li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="https://www.ipfolio.com/our-product/security/">Security</a></li>
+</ul>
+</li>
+<li id="menu-item-41" class="footer-header menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-41"><a>About IPfolio</a>
+<ul class="sub-menu">
+	<li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45"><a href="https://www.ipfolio.com/why-ipfolio/company/">Company</a></li>
+	<li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="https://www.ipfolio.com/why-ipfolio/leadership/">Team</a></li>
+	<li id="menu-item-59" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59"><a href="https://www.ipfolio.com/why-ipfolio/customers/">Customers</a></li>
+	<li id="menu-item-4168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4168"><a href="https://www.ipfolio.com/why-ipfolio/partners/">Partners</a></li>
+	<li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61"><a href="https://www.ipfolio.com/why-ipfolio/testimonials/">Testimonials</a></li>
+	<li id="menu-item-1681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1681"><a href="https://www.ipfolio.com/why-ipfolio/background/">Background</a></li>
+	<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="https://www.ipfolio.com/why-ipfolio/careers/">Careers</a></li>
+</ul>
+</li>
+<li id="menu-item-2064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2064"><a href="https://www.ipfolio.com/resources/">IP Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-58" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="https://www.ipfolio.com/resources/white-papers/">Case Studies &#038; Reports</a></li>
+	<li id="menu-item-57" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="https://www.ipfolio.com/resources/events-calendar/">Events</a></li>
+	<li id="menu-item-1754" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1754"><a href="https://www.ipfolio.com/resources/press-and-news/">News</a></li>
+</ul>
+</li>
+<li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-42"><a href="https://www.ipfolio.com/blog/">Blog</a>
+<ul class="sub-menu">
+	<li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a href="https://www.ipfolio.com/contact-us/">Contact Us</a></li>
+	<li id="menu-item-3214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3214"><a href="https://www.ipfolio.com/privacy-policy/">Privacy &#038; Security</a></li>
+</ul>
+</li>
+<li id="menu-item-62" class="footer-header menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-62"><a>Follow Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-86" class="fab fa-twitter menu-item menu-item-type-custom menu-item-object-custom menu-item-86"><a target="_blank" href="https://twitter.com/IPfolio">Twitter</a></li>
+	<li id="menu-item-87" class="fab fa-facebook menu-item menu-item-type-custom menu-item-object-custom menu-item-87"><a target="_blank" href="https://www.facebook.com/IPfolio">Facebook</a></li>
+	<li id="menu-item-88" class="fab fa-linkedin menu-item menu-item-type-custom menu-item-object-custom menu-item-88"><a target="_blank" href="https://www.linkedin.com/company/ipfolio">LinkedIn</a></li>
+	<li id="menu-item-89" class="fab fa-google-plus menu-item menu-item-type-custom menu-item-object-custom menu-item-89"><a target="_blank" href="https://plus.google.com/100572490774437341828">Google+</a></li>
+</ul>
+</li>
+</ul></div> <!-- .row -->				<!-- End of Footer copyright template -->
+
+				<!-- Append footer action -->
+								<!-- End of Append footer action -->
+
+			</div> <!-- .footer-container -->
+		</footer> <!-- #footer -->
+
+		<!-- After footer action -->
+				<!-- End of After footer action -->
+
+	</div> <!-- #page.hfeed -->
+	
+	<!-- After page action -->
+		<!-- End of After page action -->
+
+<!-- WP Footer scripts -->
+
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-30953652-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+
+<!-- Google Code for a Remarketing Tag // Added by Rupert on Aug 21, 2013 -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1008145775;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1008145775/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+<script type="text/javascript" language="javascript">llactid=24269</script> 
+<script type="text/javascript" language="javascript" src="http://t4.trackalyzer.com/trackalyze.js"></script>
+<script type='text/javascript'>
+var colomatduration = 'fast';
+var colomatslideEffect = 'slideToggle';
+var colomatpauseInit = '';
+var colomattouchstart = '';
+</script>
+<style>
+.collapseomatic { margin-bottom:50px; cursor:pointer }
+.collapseomatic_content { margin-top:-30px }
+</style>
+<script type='text/javascript' src='https://www.ipfolio.com/wp-content/plugins/jquery-collapse-o-matic/js/collapse.js?ver=1.6.14'></script>
+<script type='text/javascript'>
+var renderInvisibleReCaptcha = function() {
+
+    for (var i = 0; i < document.forms.length; ++i) {
+        var form = document.forms[i];
+        var holder = form.querySelector('.inv-recaptcha-holder');
+
+        if (null === holder) continue;
+		holder.innerHTML = '';
+
+         (function(frm){
+			var cf7SubmitElm = frm.querySelector('.wpcf7-submit');
+            var holderId = grecaptcha.render(holder,{
+                'sitekey': '6Lci1kgUAAAAANnwzfp2xD7Mc6ppFW17z4NiTz3_', 'size': 'invisible', 'badge' : 'bottomright',
+                'callback' : function (recaptchaToken) {
+					if((null !== cf7SubmitElm) && (typeof jQuery != 'undefined')){jQuery(frm).submit();grecaptcha.reset(holderId);return;}
+					 HTMLFormElement.prototype.submit.call(frm);
+                },
+                'expired-callback' : function(){grecaptcha.reset(holderId);}
+            });
+
+			if(null !== cf7SubmitElm && (typeof jQuery != 'undefined') ){
+				jQuery(cf7SubmitElm).off('click').on('click', function(clickEvt){
+					clickEvt.preventDefault();
+					grecaptcha.execute(holderId);
+				});
+			}
+			else
+			{
+				frm.onsubmit = function (evt){evt.preventDefault();grecaptcha.execute(holderId);};
+			}
+
+
+        })(form);
+    }
+};
+</script>
+<script type='text/javascript' async defer src='https://www.google.com/recaptcha/api.js?onload=renderInvisibleReCaptcha&#038;render=explicit'></script>
+<script type='text/javascript' src='https://www.ipfolio.com/wp-includes/js/wp-embed.min.js?ver=5.1.1'></script>
+			<script type="text/javascript">
+				jQuery.noConflict();
+				(function( $ ) {
+					$(function() {
+						// More code using $ as alias to jQuery
+						$("area[href*=\\#],a[href*=\\#]:not([href=\\#]):not([href^='\\#tab']):not([href^='\\#quicktab']):not([href^='\\#pane'])").click(function() {
+							if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+								var target = $(this.hash);
+								target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+								if (target.length) {
+								$('html,body').animate({
+								scrollTop: target.offset().top - 305  
+								},900 ,'easeOutExpo');
+								return false;
+								}
+							}
+						});
+					});
+				})(jQuery);	
+			</script>				
+				<!-- End of WP Footer scripts -->
+
+<!-- Start of Async HubSpot Analytics Code -->
+  <script type="text/javascript">
+    (function(d,s,i,r) {
+      if (d.getElementById(i)){return;}
+      var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+      n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/1863349.js';
+      e.parentNode.insertBefore(n, e);
+    })(document,"script","hs-analytics",300000);
+  </script>
+<!-- End of Async HubSpot Analytics Code -->
+
+</body>
+</html>
